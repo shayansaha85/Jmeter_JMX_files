@@ -1,0 +1,2 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1607326933974,476,HTTP Request,200,OK,Thread Group 1-1,text,true,,769,188,1,1,http://api.openweathermap.org/data/2.5/weather?q=London&appid=79189ba1e5e8fd8ab2d64beb8073f4d9,454,0,253

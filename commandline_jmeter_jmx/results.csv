@@ -1,0 +1,4 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1606390743483,4824,HTTP Request,200,OK,Thread Group 1-1,text,true,,43225,145,1,1,https://lifecharger.org/how-to-get-10x-productivity/,4113,0,1613
+1606390748312,1830,HTTP Request,200,OK,Thread Group 1-1,text,true,,43225,145,1,1,https://lifecharger.org/how-to-get-10x-productivity/,1463,0,0
+1606390750143,1372,HTTP Request,200,OK,Thread Group 1-1,text,true,,43225,145,1,1,https://lifecharger.org/how-to-get-10x-productivity/,1349,0,0

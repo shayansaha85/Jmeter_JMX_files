@@ -1,0 +1,8 @@
+jdbc:mysql://db4free.net:3306/shayandb1
+com.mysql.jdbc.Driver
+
+db4free credentials
+====================
+username - fastnoob
+password - fastnoob
+database name - shayandb1
