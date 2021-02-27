@@ -1,0 +1,7 @@
+for generating html and csv report jmeter command:
+----------------------------------------------------
+jmeter -n -t "dir1/filename.jmx" -l "dir2/filename.csv" -e -o "dir2/html"
+
+dir1 = directory path where jmx file is stored
+dir2 = directory path where csv report will be stored
+html = folder inside dir2 where html pages with reports will be stored
